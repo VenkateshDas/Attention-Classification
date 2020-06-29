@@ -77,3 +77,18 @@ The list of attention scores and the list of sequences which were given as input
 By taking this as input the tool creates a heatmap as provided above in the image. The attended words are highlighted in the chosen colour where the intensity of the colour is based on the attention score. The attention scores are rescaled to a new range of 0 - 100 by this tool for the convenience of creating the heatmap.
 
 
+## References :
+
+  
+
+1.  Ba, Jimmy Lei, Mnih, Volodymyr, and Kavukcuoglu, Ko- ray. Multiple object recognition with visual attention. arXiv:1412.7755 [cs.LG],December2014.
+    
+2.  Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Ben- gio. 2014. Neural machine translation by jointly learning to align and translate. Technical report, arXiv preprint arXiv:1409.0473.
+    
+3.  Chaudhari, S., Polatkan, G., Ramanath, R., & Mithal, V. (2019). An Attentive Survey of Attention Models. CoRR, abs/1904.02874. Retrieved from http://arxiv.org/abs/1904.02874
+    
+4.  Zhou, P., Shi, W., Tian, J., Qi, Z., Li, B., Hao, H., & Xu, B. (2016). Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification. In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers) (pp. 207–212). Berlin, Germany: Association for Computational Linguistics. [https://doi.org/10.18653/v1/P16-2034](https://doi.org/10.18653/v1/P16-2034)
+    
+5.  Yang, J., & Zhang, Y. (2018). {NCRF++:} An Open-source Neural Sequence Labeling Toolkit. CoRR, abs/1806.05626. Retrieved from http://arxiv.org/abs/1806.05626
+
+
